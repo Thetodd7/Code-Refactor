@@ -5,7 +5,7 @@
 ## Live Site 
 Deployed site here 
 
-https://github.com/Thetodd7/Code-Refactor.git
+https://thetodd7.github.io/Code-Refactor/
 
 ![sitePic](https://user-images.githubusercontent.com/85806673/129656787-cdb9de9c-f4b2-457a-9df9-d0e9cdbae0bb.jpg)
 
